@@ -1,0 +1,18 @@
+{
+  "hyper": {
+    "embedding_dim": [256, 512, 1024],
+    "n_primitive_types": [2, 3, 4],
+    "maxdepth": [5],
+    "n_layers": [2],
+    "n_compressor_layers": [1],
+    "inverse_distance_weighting": [1.0]
+  },
+  "training": {
+    "n_batches": [2500],
+    "lr": [0.001, 0.005, 0.01],
+    "verbosity": [10],
+    "radius": [1],
+    "batch_size": [64, 128]
+  }
+}
+
