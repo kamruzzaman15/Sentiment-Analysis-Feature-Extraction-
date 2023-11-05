@@ -8,10 +8,17 @@ The paper title is 'Efficient Sentiment Analysis: A Resource-Aware Evaluation of
 If you use this work, please cite:
 
 @misc{kamruzzaman2023efficient,
+
       title={Efficient Sentiment Analysis: A Resource-Aware Evaluation of Feature Extraction Techniques, Ensembling, and Deep Learning Models}, 
+      
       author={Mahammed Kamruzzaman and Gene Louis Kim},
+      
       year={2023},
+      
       eprint={2308.02022},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.CL}
+      
 }
